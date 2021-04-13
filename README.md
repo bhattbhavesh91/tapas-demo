@@ -1,7 +1,14 @@
 # Google's TAPAS, a BERT-Based Model for Querying Tables Using Natural Language
 
-* [Click here](https://youtu.be/ZnuEOQrT4h0)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=ZnuEOQrT4h0" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/ZnuEOQrT4h0?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![TAPAS Tutorial](http://img.youtube.com/vi/ZnuEOQrT4h0/0.jpg)](http://www.youtube.com/watch?v=ZnuEOQrT4h0)
 
